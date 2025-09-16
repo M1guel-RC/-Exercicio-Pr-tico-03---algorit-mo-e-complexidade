@@ -1,4 +1,5 @@
-#📌 Aula 04: Introdução ao Web Scraping
+# 📌 Aula 04: Introdução ao Web Scraping
+
 Este projeto realiza a raspagem (web scraping) das principais manchetes do site JC UOL
 .
 O script coleta os títulos e links das notícias, exibe os resultados no terminal e salva tudo em um arquivo CSV para posterior análise.
